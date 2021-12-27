@@ -1,2 +1,2 @@
 # task
-task repo
+task repo for git commands demonstration
